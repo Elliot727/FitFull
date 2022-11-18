@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  FitFull
-//
-//  Created by Elliot Silver on 18/11/2022.
-//
-
 import SwiftUI
 
 struct ContentView: View {
